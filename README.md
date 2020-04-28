@@ -54,3 +54,5 @@ https://github.com/android/input
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+
+This is my first test project.
